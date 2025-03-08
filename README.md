@@ -10,7 +10,6 @@ Scrap critical words from any websites as well as the most used words, in python
 - Automated Data Collection: Schedule scraping tasks to run at specified intervals.
 - Handle Dynamic Content: Supports JavaScript-rendered pages with Selenium integration.
 - Data Storage Options: Export scraped data to CSV, JSON, Excel, or a database.
-- Proxy & CAPTCHA Bypass: Avoid IP bans with rotating proxies and CAPTCHA solvers.
 - User-Friendly Interface: Simple UI for non-technical users and API access for developers.
 - Ideal for researchers, businesses, and developers, Web Scraper Pro simplifies web data extraction while ensuring efficiency and compliance with ethical scraping guidelines.
 
